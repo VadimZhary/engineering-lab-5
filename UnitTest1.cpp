@@ -9,7 +9,7 @@ public:
 	TEST_METHOD(calculate_get0point5and2_2returned) {
 		int n = 2;
 		float x = 0.5;
-		float expected = 2;
+		float expected = 324234;
 
 		float actual = calculate(x, n);
 
